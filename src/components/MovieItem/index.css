@@ -1,0 +1,10 @@
+.pop-up-container {
+  background-color: blue;
+  border-radius: 10px;
+}
+
+.popup-top-container {
+  width: 100%;
+  text-align: right;
+  padding: 10px;
+}

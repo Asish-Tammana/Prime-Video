@@ -1,0 +1,19 @@
+.bg-container {
+  background-color: #231f20;
+}
+
+.prime-video {
+  width: 100vw;
+  height: 40vh;
+}
+
+h1 {
+  color: white;
+}
+
+.bottom-section {
+  padding: 20px;
+}
+.slider-container {
+  margin: 20px;
+}
